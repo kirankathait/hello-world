@@ -100,7 +100,7 @@
 
          <plugin>
           <artifactId>maven-war-plugin</artifactId>
-          <version>2.2.jar</version>
+          <version>2.2</version>
         </plugin>
         <plugin>
           <artifactId>maven-javadoc-plugin</artifactId>
